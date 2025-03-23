@@ -2,8 +2,8 @@
 
 @ tom-gilbertsons-lab.github.io/links/
 
-QR [here]("qr_lab.png") (powerpoints).
+QR [here](/qr_lab.png) (powerpoints).
 
-Update content [here]("index.html").
+Update content [here](/index.html).
 
 
