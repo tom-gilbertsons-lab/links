@@ -1,6 +1,6 @@
 ## Links (mobile friendly)
 
-@ tom-gilbertsons-lab.github.io/links/
+https://tom-gilbertsons-lab.github.io/links/
 
 QR [here](/qr_lab.png) (powerpoints).
 
